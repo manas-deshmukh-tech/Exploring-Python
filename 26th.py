@@ -16,3 +16,9 @@ def numbers(i):
     numbers(i + 1)
 
 numbers(1)
+#4 using function and for 
+def print_numbers():
+    for i in range(1, 11):
+        print(i)
+
+print_numbers()
